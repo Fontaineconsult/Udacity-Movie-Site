@@ -3,8 +3,7 @@ Welcome to my first project submission for the Udacity Full Stack Nanodegree: Th
 
 The project contains three files: Media.Py, entertainment_center.py, and fresh_tomatoes.py.
 
-To run the project, download all three files to a folder on your computer. Open entertainment_center.py and run. This project makes use
-of a python API used to query movie data called tmdb3. This module must be installed prior to runtime. PIP tmdb3 works fine. 
+To run the project, download all three files to a folder on your computer. Run enterainment_center.py directly in python. This project makes use of a python API used to query movie data called tmdb3. This module must be installed prior to runtime. PIP tmdb3 works fine. 
 
 Due to querying restrictions in place at TheMovieDB.org, it is not possible to query more than 40 items in under 10 seconds.
 To bypass this limitation, I've added a one second delay in between each Movie class instantiation. In the real world this would not be a
